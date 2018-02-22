@@ -3,9 +3,9 @@
 <head>
     <!-- Basic Page Info -->
     <meta charset="utf-8">
-    <title>Okinato - Fast, Secure Financial Exchange</title>
-    <meta name="description" content="Okinato - Fast, Secure Financial Exchange">
-    <meta name="author" content="okinato.comm">
+    <title>Jetfinex - Fast, Secure Financial Exchange</title>
+    <meta name="description" content="Jetfinex - Fast, Secure Financial Exchange">
+    <meta name="author" content="jetfinex.comm">
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -34,7 +34,7 @@
     <div class="left color_white hideee">
         <div class="brand"><img src="" class="img-responsive" alt=""></div>
         <div class="content">
-            <h1 class="big-title font_serif ssa js-spanize">Okinato</h1>
+            <h1 class="big-title font_serif ssa js-spanize">Jetfinex</h1>
             <h2 class="font_serif">
                 Putting
                 <span class="text_bordered sa js-spanize">Customers</span> <br>
@@ -52,9 +52,9 @@
         <div id="about">
             <h2 class="title font_bold text_bordered">About us</h2>
             <div class="space_5"></div>
-            <p>Okinato is a brand new global cryptocurrency exchange and trading platform.</p>
-            <p>Offering a cutting-edge trading engine, liquid orderbook, user-friendly interface, and high security for users’ funds, Okinato makes digital asset trading fast, easy, and secure.</p>
-            <p> Whether you are a seasoned trader, an institutional investor, or an individual thinking of investing in digital assets for the first time, Okinato will be your new and prime go-to place for buying and selling Bitcoin, Ethereum, and other select cryptocurrencies. </p>
+            <p>Jetfinex is a brand new global cryptocurrency exchange and trading platform.</p>
+            <p>Offering a cutting-edge trading engine, liquid orderbook, user-friendly interface, and high security for users’ funds, Jetfinex makes digital asset trading fast, easy, and secure.</p>
+            <p> Whether you are a seasoned trader, an institutional investor, or an individual thinking of investing in digital assets for the first time, Jetfinex will be your new and prime go-to place for buying and selling Bitcoin, Ethereum, and other select cryptocurrencies. </p>
             <div class="space_5"></div>
             <div class="services">
                 <div class="col-xs-12 col-sm-6 service">
@@ -62,7 +62,7 @@
                         <img src="icons/watercolor.png" alt="">
                     </div>
                     <h4>High Performance Platform</h4>
-                    <p> Okinato’s custom-built stable platform offers high liquidity, different order types, realtime orderbooks, a number of charting tools and much more to facilitate and enhance your trading experience.
+                    <p> Jetfinex’s custom-built stable platform offers high liquidity, different order types, realtime orderbooks, a number of charting tools and much more to facilitate and enhance your trading experience.
                     </p>
                 </div>
                 <div class="col-xs-12 col-sm-6 service">
@@ -70,7 +70,7 @@
                         <img src="icons/layers.png" alt="">
                     </div>
                     <h4>Security First</h4>
-                    <p>Placing paramount importance on the safety of user funds, Okinato utilizes sophisticated encryption on all its wallets, and stores over 95% of its users’ digital assets offline, using a top-tier cold storage solution.
+                    <p>Placing paramount importance on the safety of user funds, Jetfinex utilizes sophisticated encryption on all its wallets, and stores over 95% of its users’ digital assets offline, using a top-tier cold storage solution.
                     </p>
                 </div>
             </div>
@@ -81,7 +81,7 @@
                     <div class="contact">
                         <h2 class="font_bold title text_bordered">Get in touch</h2>
                         <br>
-                        <p> We are currently expanding our team, and hiring on multiple fronts. If you are interested in joining Okinato, you represent a business that would like to cooperate with Okinato, or you simply have ideas or suggestions, please reach out to us by email. </p>
+                        <p> We are currently expanding our team, and hiring on multiple fronts. If you are interested in joining Jetfinex, you represent a business that would like to cooperate with Jetfinex, or you simply have ideas or suggestions, please reach out to us by email. </p>
                    
                                     </div>
                                 </div>
@@ -94,7 +94,7 @@
                         </div>
                         <div class="item">
                             <img src="icons/envelope.png" class="img-responsive" alt="">
-                            <p class="color_grey font_bold"><a href="mailto:hello@okinato.com">hello@okinato.com</a></p>
+                            <p class="color_grey font_bold"><a href="mailto:hello@jetfinex.com">hello@jetfinex.com</a></p>
                         </div>
                         <div class="item">
                             <img src="icons/telephone.png" class="img-responsive" alt="">
@@ -117,7 +117,7 @@
                     <div class="form-group">
                         <div class="controls">
                             <!-- Field  -->
-                      <p> send us an email at hello@okinato.com </p>
+                      <p> send us an email at hello@jetfinex.com </p>
                         </div>
                     </div>
                 </form>
@@ -134,9 +134,9 @@
         </ul>
     </div>
     <div class="copyright text-right oop">
-        <b>OKINATO</b> <br>
-         hello@okinato.com <br>
-    Copyright © 2018 Okinato.com - All Rights Reserved.
+        <b>JETFINEX</b> <br>
+         hello@jetfinex.com <br>
+    Copyright © 2018 Jetfinex.com - All Rights Reserved.
     </div>
     <div class="close-ss"></div>
 </div>
